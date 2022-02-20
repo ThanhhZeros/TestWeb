@@ -51,5 +51,8 @@
     background-color: #144279 !important;
     color: #fff !important;
     height: 25px;
-    margin-left: 20px;
+}
+.customheader{
+    background-color: #144279;
+    color: #fff;
 }
