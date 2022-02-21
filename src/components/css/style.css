@@ -43,6 +43,31 @@
     height: 200px;
     background-color: lightgrey;
     border-radius: 4px;
+    padding: 10px;
+}
+.column {
+    display: flex;
+    height: 45px;
+    width: 100%;
+}
+.column1 {
+    width: 8%;
+}
+.column2 {
+    width: 20%;
+}
+.column3 {
+    width: 26%;
+}
+.column4 {
+    width: 30%;
+}
+.column5 {
+    width: 40%;
+}
+.button-search {
+    background-color: #144279 !important;
+    color: #fff !important;
 }
 .table1 {
     margin-top: 10px;
@@ -52,7 +77,15 @@
     color: #fff !important;
     height: 25px;
 }
-.customheader{
+.customheader {
     background-color: #144279;
     color: #fff;
+}
+.custominput {
+    height: 35px;
+    width: 90%;
+}
+.custominput1 {
+    height: 35px;
+    width: 65%;
 }
